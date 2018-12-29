@@ -8,6 +8,8 @@ int main()
        printf("Little endian"); 
    else
        printf("Big endian"); 
+       printf("Thank You");
    getchar(); 
    return 0; 
 } 
+
